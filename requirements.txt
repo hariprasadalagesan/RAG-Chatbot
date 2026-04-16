@@ -1,10 +1,7 @@
-streamlit
-pypdf
-pillow
-sentence-transformers
-langchain
-langchain-core
-langchain-community
-langchain-text-splitters
-chromadb
-torch
+langchain==0.0.190
+chromadb==0.3.23
+protobuf==3.20.0
+opentelemetry-api==1.20.0
+opentelemetry-sdk==1.20.0
+opentelemetry-exporter-otlp==1.20.0
+opentelemetry-instrumentation==0.40b0
