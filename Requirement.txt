@@ -4,6 +4,8 @@ pytesseract
 pillow
 sentence-transformers
 langchain
+langchain-core
 langchain-community
+langchain-text-splitters
 chromadb
-fitz
+torch
