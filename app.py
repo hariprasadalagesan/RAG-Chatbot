@@ -3,6 +3,7 @@ import fitz
 import pytesseract
 from PIL import Image
 import re
+import os
 
 from langchain_core.documents import Document
 from langchain_text_splitters import RecursiveCharacterTextSplitter
